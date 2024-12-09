@@ -33,7 +33,7 @@ _Component Descriptions_
 
 _Getting Started_
 
-- Clone the repository using `git clone [repository URL]`
+- Clone the repository using `git clone [https://github.com/Phvl-0/VoteHub-Project-Online-Election-System-.git]`
 - Install dependencies using `npm install`
 - Start the application using `npm start`
 
