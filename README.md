@@ -42,7 +42,7 @@ We use third-party libraries and assets, including:
 
 ### System Design Document
 
-For a comprehensive overview of the project's architecture, components, and design decisions, please refer to our [System Design Document](*https://github.com/Phvl-0/VoteHub-Project/blob/b4d53ef7fe092d1c375a4028155e6618b94f7a5e/Online%20Election%20System%20-%20SDD(Markdown).md*).
+For a comprehensive overview of the project's architecture, components, and design decisions, please refer to our [System Design Document](https://github.com/Phvl-0/VoteHub-Project/blob/b4d53ef7fe092d1c375a4028155e6618b94f7a5e/Online%20Election%20System%20-%20SDD(Markdown).md).
 
 ### Support
 
