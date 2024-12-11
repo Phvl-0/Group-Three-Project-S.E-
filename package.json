@@ -1,0 +1,24 @@
+{
+  "name": "votehub-project",
+  "version": "1.0.0",
+  "description": "VoteHub is an online voting system designed to provide a secure, transparent, and user-friendly experience. Our goal is to make voting easier and more accessible, while ensuring the integrity of the electoral process.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phvl-0/VoteHub-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phvl-0/VoteHub-Project/issues"
+  },
+  "homepage": "https://github.com/Phvl-0/VoteHub-Project#readme"
+}
