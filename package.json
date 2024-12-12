@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Phvl-0/VoteHub-Project/issues"
   },
-  "homepage": "https://github.com/Phvl-0/VoteHub-Project#readme"
+  "homepage": "https://github.com/Phvl-0/VoteHub-Project#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
