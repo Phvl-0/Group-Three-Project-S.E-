@@ -1,4 +1,4 @@
-# VoteHub
+{# VoteHub
 
 ### Motivation and Problem Statement
 
@@ -14,7 +14,7 @@ VoteHub is an online voting system designed to provide a secure, transparent, an
 ### Technologies Used
 
 - Frontend: React, Redux, Material-UI
-- Backend: Node.js, Express.js, MongoDB
+- Backend: Node.js, Express.js, MongoDB or PostgresSQL
 - Authentication: Passport.js
 
 ### Setup and Installation
@@ -23,7 +23,7 @@ VoteHub is an online voting system designed to provide a secure, transparent, an
 2. Navigate to the project directory: `cd vote-hub`
 3. Install dependencies: `npm install`
 4. Start the application: `npm start`
-5. Access the application: `http://localhost:3000`
+5. Access the application: `http://localhost:5000`
 
 ### Contribution Guidelines
 
