@@ -46,7 +46,8 @@ We use third-party libraries and assets, including:
 ### System Design Document
 
 For a comprehensive overview of the project's architecture, components, and design decisions, please refer to our [System Design Document]
-[Software Design Document - Online Election System.Group Three.docx](https://github.com/user-attachments/files/18137189/Software.Design.Document.-.Online.Election.System.Group.Three.docx)
+[Oline-Election-System(Votehub).pdf](https://github.com/user-attachments/files/18137205/Oline-Election-System.Votehub.pdf)
+
 
 ### Support
 
