@@ -20,7 +20,7 @@ VoteHub is an online voting system designed to provide a secure, transparent, an
 ### Setup and Installation
 
 1. Clone the repository: `git clone (https://github.com/Phvl-0/VoteHub-Project.git)`
-2. Navigate to the project directory: `cd vote-hub`
+2. Navigate to the project directory: `cd VotHub-Project`
 3. Install dependencies: `npm install`
 4. Start the application: `npm start`
 5. Access the application: `http://localhost:3000`
