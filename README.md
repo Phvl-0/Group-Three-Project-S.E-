@@ -1,4 +1,7 @@
+
 ## VoteHub
+![VoteHub](https://github.com/user-attachments/assets/a03ae8b6-0dca-4afe-b03d-e9dd5458f813)
+
 
 ### Motivation and Problem Statement
 
